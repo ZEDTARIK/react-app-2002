@@ -9,7 +9,7 @@ function App() {
 
         <div className="card">
           <div className="card-body">
-              Lorem ipsum dolor sit amet consectetur.
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae voluptatibus doloribus harum recusandae aperiam, quae quas explicabo? Numquam, illo deleniti.
           </div>
         </div>
 
